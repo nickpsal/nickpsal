@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickpsal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning javascript, php
+- 🌱 I’m currently learning .net,  javascript, php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me skype nickpsal
 
